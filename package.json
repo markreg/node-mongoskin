@@ -1,5 +1,5 @@
 {
-  "name": "mongoskin",
+  "name": "mongoskin-fork",
   "description": "The future layer above node-mongodb-native",
   "version": "1.3.20",
   "author": "Gui Lin <guileen@gmail.com>",
